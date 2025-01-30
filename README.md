@@ -1,2 +1,2 @@
 # bookbot
-Bookbot terminal application
+BookBot is my first project!
